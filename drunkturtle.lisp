@@ -2,7 +2,7 @@
 (in-package #:drunkturtle)
 
 (defvar *acceptor* nil)
-;(defvar *project-root* (asdf:system-source-directory :retro-games))
+(defvar *project-root* (asdf:system-source-directory :drunkturtle))
 
 
 (defmacro standard-page ((&key title) &body body)
@@ -21,9 +21,15 @@
 	     ,@body))))
 
 
-(define-easy-handler (home :uri "/") ()
+(define-easy-handler (home :uri "/home") ()
     (standard-page (:title "drunkturtle.com")
       (:h1 "lala")
       (:p "Under construction!")))
 
 
+(defun start-server ()
+  (start (setf *acceptor*
+	       (make-instance
+		'easy-acceptor :port 8080
+			       :document-root
+			       (merge-pathnames "static/" *project-root*)))))
