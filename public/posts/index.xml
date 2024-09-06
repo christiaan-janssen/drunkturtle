@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Drunkturtle.com</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Drunkturtle.com</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>christiaan@drunkturtle.com (Christiaan Janssen)</managingEditor>
+    <webMaster>christiaan@drunkturtle.com (Christiaan Janssen)</webMaster>
+    <lastBuildDate>Fri, 06 Sep 2024 07:51:22 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning Odin</title>
+      <link>http://localhost:1313/posts/learning-odin/</link>
+      <pubDate>Fri, 06 Sep 2024 07:51:22 +0200</pubDate><author>christiaan@drunkturtle.com (Christiaan Janssen)</author>
+      <guid>http://localhost:1313/posts/learning-odin/</guid>
+      <description>&lt;p&gt;Recently I started looking into the &lt;a href=&#34;https://odin-lang.org/&#34;&gt;Odin&lt;/a&gt; programming language. I was writing a side project in C but got stuck at some point. As I was doing some Googeling and Searching through Youtube I came across the channel from &lt;a href=&#34;https://www.youtube.com/@karl_zylinski&#34;&gt;Karl Zylinski&lt;/a&gt;, specially his tutorial videos about &lt;a href=&#34;https://odin-lang.org/&#34;&gt;Odin&lt;/a&gt; and &lt;a href=&#34;https://www.raylib.com/&#34;&gt;Raylib&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;odin-and-raylib&#34;&gt;Odin and Raylib&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Fri, 06 Sep 2024 07:30:10 +0200</pubDate><author>christiaan@drunkturtle.com (Christiaan Janssen)</author>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;p&gt;Welcome to version 5 of Drunkturtle! Every time I start this with the best of intentions, and every time it ends up being more work then I would have thought.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

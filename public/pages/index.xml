@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Drunkturtle.com</title>
+    <link>http://localhost:1313/pages/</link>
+    <description>Recent content in Pages on Drunkturtle.com</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>christiaan@drunkturtle.com (Christiaan Janssen)</managingEditor>
+    <webMaster>christiaan@drunkturtle.com (Christiaan Janssen)</webMaster>
+    <lastBuildDate>Fri, 06 Sep 2024 08:19:10 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/pages/about/</link>
+      <pubDate>Fri, 06 Sep 2024 08:19:10 +0200</pubDate><author>christiaan@drunkturtle.com (Christiaan Janssen)</author>
+      <guid>http://localhost:1313/pages/about/</guid>
+      <description>&lt;p&gt;Hello, nice off you to check out my site!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
